@@ -2,7 +2,7 @@
 Detect objects on a given image using edge detection based algorithms
 
 
-##Problem Description
+## Problem Description
 
   For the given image detect all the objects on the table without using Deep Learning algorithm.
   
